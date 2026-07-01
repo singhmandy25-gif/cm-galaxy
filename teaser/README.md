@@ -96,7 +96,7 @@ This is a **teaser**. It shares the concept, the measured results, and the limit
 
 ## Collaboration
 
-This work was designed, built, and validated solo and independently, on rented cloud GPUs. **Research collaboration is welcome** (non-commercial at this stage). If you work on efficient long-context modeling, Indic-language modeling, or sub-quadratic architectures, and would like to discuss this or help validate it further, please get in touch.
+This work was designed, built, and validated solo and independently, on rented cloud GPUs. Research collaboration is welcome (non-commercial at this stage) — particularly computational support for scaling and validation. If you work on efficient long-context modeling, Indic-language modeling, or sub-quadratic architectures, and would like to discuss this or help validate it further, please get in touch.
 
 **Contact:** Mandeep Singh — speedgaplabs@gmail.com
 
